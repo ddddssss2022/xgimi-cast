@@ -1,0 +1,12 @@
+vendor/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+device.json
+playlist.json
+error.log
+
+.venv/
+venv/
+*.zip
